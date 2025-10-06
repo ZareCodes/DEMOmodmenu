@@ -82,4 +82,4 @@ While the MIT License does not require attribution, we kindly request that if yo
 
 ### Suggested Attribution Format:
 ```python
-# Original UI Design by [ZareCodes]
+# Original UI Design by ZareCodes
